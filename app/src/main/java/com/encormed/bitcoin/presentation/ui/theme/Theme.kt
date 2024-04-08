@@ -1,4 +1,4 @@
-package com.encormed.bitcoin.ui.theme
+package com.encormed.bitcoin.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

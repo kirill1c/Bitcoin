@@ -1,4 +1,4 @@
-package com.encormed.bitcoin.ui.theme
+package com.encormed.bitcoin.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
